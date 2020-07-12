@@ -1,0 +1,128 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+ }
+  
+}
+h3{
+    color: gray;
+}
+h4 {
+    color: gray;  
+}
+
+p{
+  margin-bottom: 35px;
+  font-weight: 700;
+  color: gray; 
+}
+.name-type {
+    color: blueviolet;
+    
+}
+.half-width{
+width: 35%;
+float:left;
+margin-left: 6%;
+padding-left: 5%;
+
+}
+.half-width img{
+width: 100%;
+}
+.top-banner {
+background-image: url("images/header-bg.png");
+background-repeat: no-repeat;
+background-size: cover;
+} 
+section{
+    height: 650px;
+    padding-bottom: 10px;
+    padding-top: 100px;
+}
+.link-bitton {
+    text-decoration: none;
+    background-color: chartreuse;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white; 
+    font-weight: 700;
+}
+.biography-area {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+         
+    } 
+.one-third-width img{
+        width: 100%;
+        padding-bottom: 5%;
+    }
+.one-third-width {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    width: 25%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0%;
+}
+
+.clients {
+    background-image: url("images/footer-bg.png");
+    padding-top: 5%;
+    padding-bottom: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+     
+.My-Latest{
+    background-image: url("images/latest-work-bg.png");
+    padding-top: 5%;
+    padding-bottom: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
+#latest-work{
+        text-align: center;
+        padding-top: 7%;
+        padding-bottom: 2%;
+        margin-top: 0px;
+        margin-bottom: 10%;
+    }
+   
+.message-me {
+    background-color:plum;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 10px 20px 10px;
+     }
+#message{
+    font-size: 15px;
+    color: white ;   
+}
+.send-email{
+        text-align: center;
+        padding-top: 25%;
+        }
+#email{
+    font-size: 20px;
+    color: white ;
+    }
+#comments {
+     color: black;
+     padding-bottom: 30px;
+ }
+footer p{
+        text-align: center;
+        padding-top: 15%;
+    }
