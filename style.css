@@ -24,10 +24,10 @@ p{
     
 }
 .half-width{
-width: 35%;
+width: 30%;
 float:left;
-margin-left: 6%;
-padding-left: 5%;
+margin-left: 2%;
+padding-left: 13%;
 
 }
 .half-width img{
@@ -71,28 +71,35 @@ section{
     padding-right: 2%;
     padding-bottom: 0%;
 }
+#client{
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    margin-top: 5px;
+    margin-bottom: 5%;
+}
 
 .clients {
     background-image: url("images/footer-bg.png");
-    padding-top: 5%;
-    padding-bottom: 15%;
+    padding-top: 0%;
+    padding-bottom: 0%;
     background-repeat: no-repeat;
     background-size: cover;
     }
      
 .My-Latest{
     background-image: url("images/latest-work-bg.png");
-    padding-top: 5%;
-    padding-bottom: 15%;
-    background-repeat: no-repeat;
+    padding-top: 1%;
+    padding-bottom: 1%;
     background-size: cover;
+    background-repeat: no-repeat;
         
 }
 #latest-work{
         text-align: center;
-        padding-top: 7%;
-        padding-bottom: 2%;
-        margin-top: 0px;
+        padding-top: 4%;
+        padding-bottom: 0%;
+        margin-top: 10px;
         margin-bottom: 10%;
     }
    
@@ -105,6 +112,7 @@ section{
     border-radius: 5px;
     color: white;
     padding: 20px 10px 20px 10px;
+    margin-bottom: 25%;
      }
 #message{
     font-size: 15px;
@@ -112,7 +120,8 @@ section{
 }
 .send-email{
         text-align: center;
-        padding-top: 25%;
+        padding-top: 10%;
+        margin-bottom: 5%;
         }
 #email{
     font-size: 20px;
@@ -124,5 +133,6 @@ section{
  }
 footer p{
         text-align: center;
-        padding-top: 15%;
+        padding-top: 22%;
+      
     }
